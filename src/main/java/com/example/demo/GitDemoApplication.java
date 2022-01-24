@@ -10,5 +10,9 @@ public class GitDemoApplication {
 		System.out.println("testing");
 		SpringApplication.run(GitDemoApplication.class, args);
 	}
+	
+	public void testing() {
+		System.out.println("Testing github");
+	}
 
 }
