@@ -14,5 +14,9 @@ public class GitDemoApplication {
 	public void testing() {
 		System.out.println("Testing github");
 	}
+	
+	public void testing1() {
+		System.out.println("Testing github");
+	}
 
 }
